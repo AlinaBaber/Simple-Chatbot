@@ -1,0 +1,11 @@
+playsound~=1.2.2
+wikipedia~=1.4.0
+numpy~=1.20.3
+gTTS~=2.2.2
+tensorflow~=2.5.0
+sklearn~=0.0
+scikit-learn~=0.24.2
+colorama~=0.4.4
+pandas~=1.2.4
+requests~=2.25.1
+pipwin
